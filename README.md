@@ -46,12 +46,6 @@ The dashboard transforms raw transactional data into actionable business insight
 - Delivery Performance by Shipping Method
 - Regional Order Distribution
 
-### 5️⃣ Business Insights & Recommendations
-- Key performance observations
-- Profitability risks
-- Operational improvement suggestions
-- Strategic growth opportunities
-
 ---
 
 ## 🔍 Key Insights
