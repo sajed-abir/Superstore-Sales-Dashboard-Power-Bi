@@ -98,10 +98,28 @@ The dashboard transforms raw transactional data into actionable business insight
 
 
 Example:
+### 1️⃣ Executive Overview
+This page provides a high-level summary of overall business performance, including total sales, total profit, total orders, and sales trends over time.  
+It highlights regional performance and category contribution to revenue.
 
 ![Executive Overview](executive.png)
+
+### 2️⃣ Product Performance
+This page analyzes product-level sales and profitability.  
+It identifies high-performing categories and sub-categories, as well as loss-making products that negatively impact overall profit margins.
+
 ![Product Performance](product.png)
+
+### 4️⃣ Shipping & Operations
+This page evaluates operational efficiency, including average delivery time, shipping mode usage, and regional order distribution.  
+It provides insight into logistics performance and customer delivery experience.
+
 ![Shipping and Operations](shipping.png)
+
+### 3️⃣ Customer Analysis
+This section focuses on customer behavior and revenue contribution.  
+It highlights top customers, sales by segment, and average sales per customer to understand customer value.
+
 ![Customer Analysis](customer.png)
 
 ---
